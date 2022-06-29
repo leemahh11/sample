@@ -1,0 +1,12 @@
+div{
+    background-image: linear-gradient(pink,blue);
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    transform: translate(50px,60px);
+    
+}
+div:hover{
+    transform: translate(100px,80px) rotateZ(10deg) scale(2,2);
+    
+}

@@ -1,0 +1,12 @@
+#rgba{
+    background-color: rgba(20,14,192,0.5 );
+    color:black;
+}
+#opacity{
+    background-color: rgb(30, 20, 100);
+    color: white;
+    opacity: 0.5;
+}
+#hsl{
+    background-color: hsl(198,80%,60%);
+}

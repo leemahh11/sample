@@ -1,0 +1,21 @@
+.gradient-div{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.linear-gradient-1{
+    background-image: linear-gradient(red,pink,purple);
+}
+.linear-gradient-2{
+    background-image: linear-gradient(to right,blue,lightblue,lightgreen);
+}
+.linear-gradient-3{
+    background-image: linear-gradient(to left,pink,brown,maroon);
+}
+.linear-gradient-4{
+    background-image: linear-gradient(black,green,yellow);
+}
+.radial-gradient-1{
+    background-image: radial-gradient(purple,red,pink);
+}

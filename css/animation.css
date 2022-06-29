@@ -1,0 +1,21 @@
+.css-anim{
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    animation-name: halima;
+    animation-duration: 2s;
+
+}
+@keyframes halima{
+    from{
+        background-color: blueviolet;
+    }
+    to{ 
+        background-color: palevioletred;
+        height: 250px;
+        width: 250px;
+        border-radius: 50%;
+        transform: rotate(360deg);
+    }
+}

@@ -1,0 +1,68 @@
+/*unvisited link*/
+a.link{
+    color: red;
+}
+
+  /* visited link */
+  a:visited {
+    color:black;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: purple;
+    
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  /* link button */
+  a:link, a:visited {
+    background-color: white;
+    color:black;
+    border: 3px solid black ;
+    border-radius: 5px ;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color:palevioletred;
+  }
+
+
+
+  /* list styling */
+  ul{
+    background: #3399bb;
+    padding: 15px;
+
+  }
+  ol{
+  
+    background-color:palevioletred;
+    padding: 20px ;
+    
+
+  }
+  ol li{
+    background: #ffe5e5 ;
+    color:black ;
+    padding: 10px;
+    margin-left: 5px;
+    list-style-type: lower-alpha;
+    list-style-position: outside;
+
+  }
+  ul li {
+    background: #cce5ff;
+    color: darblue ;
+    margin: 5px;
+    list-style-position:outside
+  }
+
+

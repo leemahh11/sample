@@ -1,0 +1,13 @@
+table,th,td{
+    
+    border-collapse: collapse;
+    padding: 5px 3px;
+    text-align: center;
+    border-bottom: 1px solid gray;
+
+}
+table{ 
+    width: 30%;
+}
+tr:nth-child(even) { background-color:grey;}
+tr:hover{background-color: whitesmoke;}

@@ -1,0 +1,10 @@
+input[type ="text"]{
+    border:2px black solid;
+}
+
+h1[title="Eng"]{
+    color: pink;
+}
+p{
+    background-color: blueviolet;
+}

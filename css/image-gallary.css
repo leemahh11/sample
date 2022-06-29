@@ -1,0 +1,19 @@
+
+.gallary-content img{
+    width: 200px;
+    height: 200px;
+}
+.gallary-content{
+    display: inline-block;
+    width: 200px;
+    border:0.5px solid lightgrey;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    border-radius: 6px;
+}
+.gallary-content:hover{
+    border: 1px solid grey;
+    transform: translate(3px,3px) rotate(2deg);
+}
+
+
