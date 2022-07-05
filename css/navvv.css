@@ -33,3 +33,18 @@ label.logo{
         
     }
     
+div{
+    height: 90px;
+    width: 90px;
+    background-color: blue;
+    color: white;
+    text-align:center;
+    font-size: 2rem;
+    text-transform:uppercase;
+    border-radius: 9px;
+    line-height: 90px;
+    margin-left: 5px;
+}
+.box:hover{
+    transform: rotate(5deg);
+}

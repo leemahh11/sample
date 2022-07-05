@@ -5,6 +5,7 @@
     border-radius: 10px;
     animation-name: halima;
     animation-duration: 2s;
+    
 
 }
 @keyframes halima{
@@ -19,3 +20,7 @@
         transform: rotate(360deg);
     }
 }
+
+
+
+
